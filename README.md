@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio website<br>👯 I’m looking to work on Full Stack Web Development<br>🤝 I’m looking for help to land on my first JOB<br>🌱 I’m currently learning React<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on my portfolio website<br>👯 I’m looking to work on Full Stack Web Development<br>🤝 I’m looking for help to land on my first JOB<br>🌱 I’m currently learning React<br>
 
 
 ## 🌐 Socials:
