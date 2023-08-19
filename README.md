@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫Hi Programmers I'm Rishav Kumar Aspiring Web Developer | API Enthusiast💫
 🔭 I’m currently working on my portfolio website<br>👯 I’m looking to work on Full Stack Web Development<br>🤝 I’m looking for help to land on my first JOB<br>🌱 I’m currently learning React
 
 
