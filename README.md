@@ -1,5 +1,5 @@
 # 💫Hi Programmers I'm Rishav Kumar Aspiring Web Developer | API Enthusiast💫
-🔭 I’m currently working on my portfolio website<br>👯 I’m looking to work on Full Stack Web Development<br>🤝 I’m looking for help to land on my first JOB<br>🌱 I’m currently learning React
+🔭 I’m currently tring to mastering react<br>👯 I’m looking to work on Full Stack Web Development<br>🤝 I’m looking for help to land on my first JOB<br>
 
 ## 🏢 My Portfolio: https://rishavkumar.live/
 
