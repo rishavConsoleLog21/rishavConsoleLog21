@@ -1,4 +1,4 @@
-# 💫Hi People,  I'm Rishav Kumar Aspiring Web Developer Who Likes React | API Enthusiast💫
+# 💫Hi People,  I'm Rishav Kumar Aspiring Full Stack Web Developer💫
 🔭 I’m currently tring to mastering react<br>👯 I’m looking to work on Full Stack Web Development<br>🤝 I’m looking for help to land on my first JOB<br>
 
 # 🏢 My Portfolio: https://rishavkumar.live/
